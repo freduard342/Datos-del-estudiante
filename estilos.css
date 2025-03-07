@@ -1,0 +1,17 @@
+*{
+font-family: Arial, Helvetica, sans-serif; 
+}
+body {
+    background-color: grey;
+}
+.freduard{
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.freduard2{
+    background-color: brown;
+}
+
+
+
+
